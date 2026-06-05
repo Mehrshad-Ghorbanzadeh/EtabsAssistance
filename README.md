@@ -1,5 +1,6 @@
-EtabsAssistance
-EtabsAssistance is a standalone desktop application designed to streamline and automate structural engineering workflows within CSI ETABS. By combining a user-friendly graphical interface with powerful computational modules and direct API integration, this tool minimizes manual effort and improves efficiency in structural modeling.
+//EtabsAssistance
+EtabsAssistance is a standalone desktop application designed to streamline and automate structural engineering workflows within CSI ETABS. 
+By combining a user-friendly graphical interface with powerful computational modules and direct API integration, this tool minimizes manual effort and improves efficiency in structural modeling.
 
 Key Features
 Computational Modules:
